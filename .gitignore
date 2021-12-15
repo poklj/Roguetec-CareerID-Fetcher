@@ -1,0 +1,11 @@
+/.idea/.gitignore
+/.idea/inspectionProfiles/profiles_settings.xml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/pythonProject.iml
+/__pycache__/App.cpython-38.pyc
+/__pycache__/buttonFrame.cpython-38.pyc
+/__pycache__/fetcher.cpython-38.pyc
+/__pycache__/main.cpython-38.pyc
+/__pycache__/Options.cpython-38.pyc
+/__pycache__/URLUtilities.cpython-38.pyc
